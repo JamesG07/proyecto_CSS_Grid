@@ -13,23 +13,26 @@ main{
 }
 .section h1{
     color:#215151;
-    font-weight: bolder;
     font-size: 45px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Tiro Telugu', serif;
+    text-decoration: underline ;
+    margin-left: 15px;
 }
-
 
 .section button{
     color: white;
     background-color: orange;
     border-radius: 15px;
     font-size: 19px;
-    border: none;
+    border: groove;
     font-weight: bolder;
+    margin: 15px;
     
 }
 .section p{
     text-align: justify;
+    margin: 15px;
+    max-width: 250px;
 }
 
 .img-1{
